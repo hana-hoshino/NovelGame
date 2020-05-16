@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f183272568e6f94382e3b59c0de76cd, type: 3}
+  m_Name: YandereAtoZ.project
+  m_EditorClassIdentifier: 
+  excelList: []
+  chapterDataList:
+  - chapterName: Boot
+    excelList:
+    - {fileID: 102900000, guid: 0909088c5743d49d7ad40280b6e6da95, type: 3}
+    excelDir: {fileID: 0}
+  checkWaitType: 0
+  checkWhiteSpaceEndOfCell: 1
+  checkTextCount: 1
+  checkTextCountAllLanguage: 0
+  scenarios: {fileID: 11400000, guid: 925536f8b54a74973a6b8459f16ede7f, type: 2}
+  autoImportType: 0
+  convertPath: 
+  convertVersion: 0
+  isAutoUpdateVersionAfterConvert: 0
+  isAutoConvertOnImport: 0
+  customInportSpriteFolders:
+  - {fileID: 102900000, guid: aa100bf655dd74982a737af62d1805a3, type: 3}
+  - {fileID: 102900000, guid: 47fc2a9dbb6e84d179e5b6e0c3692aa5, type: 3}
+  - {fileID: 102900000, guid: 109fffbdd98b342e8ab87690d970b9bb, type: 3}
+  - {fileID: 102900000, guid: 3be5d5e5589484333b1012a761eeb775, type: 3}
+  - {fileID: 102900000, guid: d0006ef2e829842eea9ef0c0f5823cad, type: 3}
+  customInportAudioFolders:
+  - {fileID: 102900000, guid: 1fd6c31991e2c432eacfd2d2acc5a77f, type: 3}
+  - {fileID: 102900000, guid: 02f1aa3d76ea44f5899ab9685ddb4866, type: 3}
+  - {fileID: 102900000, guid: 9c491d4a738fa465f8c5d337f8820039, type: 3}
+  - {fileID: 102900000, guid: c8ec7a67427cd4d13946cbea79d5e49b, type: 3}
+  customInportMovieFolders: []
+  quickImport: 0
+  parseFormula: 0
+  parseNumreic: 0
+  enableCommentOutOnImport: 1
+  recourceDir: {fileID: 0}
+  checkExt: 0
