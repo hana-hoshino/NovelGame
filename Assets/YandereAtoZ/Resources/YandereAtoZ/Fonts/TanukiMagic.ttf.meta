@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 32309bd5e49c54c1191d8f5ed7d1b47f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Tanuki Permanent Marker
+  fontNames:
+  - Tanuki Permanent Marker
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

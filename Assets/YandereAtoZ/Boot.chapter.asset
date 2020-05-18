@@ -285,6 +285,16 @@ MonoBehaviour:
     - rowIndex: 1
       debugIndex: 1
       strings:
+      - "\u30E1\u30A4\u30F3\u30C6\u30FC\u30DE"
+      - 
+      - Bgm
+      - cutemagic.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
       - "\u65E5\u5E38BGM"
       - 
       - Bgm
@@ -292,8 +302,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 2
-      debugIndex: 2
+    - rowIndex: 3
+      debugIndex: 3
       strings:
       - "SE\u30C1\u30E3\u30A4\u30E0"
       - 
@@ -302,8 +312,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 3
-      debugIndex: 3
+    - rowIndex: 4
+      debugIndex: 4
       strings:
       - "SE\u30C9\u30A2"
       - 
@@ -314,7 +324,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/YandereAtoZ/YandereAtoZ.xls:Sound
     type: 1
-    textLength: 103
+    textLength: 125
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
