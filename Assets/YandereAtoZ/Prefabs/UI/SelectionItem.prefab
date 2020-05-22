@@ -110,7 +110,7 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 21300000, guid: 8bf328e3f3a2a467c8f0dd011ecab20b, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 295dff30f92894d1fbaf9836b696554e, type: 3}
   m_Type: 1
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -165,7 +165,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u9078\u629E\u80A2\u305D\u306E\u3044\u3061\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042\u3042"
+  m_Text: "\u9078\u629E\u80A2\u305D\u306E\u3044\u3061\u3042\u3042\u3042\u3042\u3042"
 --- !u!114 &11408034
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -216,7 +216,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: -30.799997, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!224 &22400002
 RectTransform:
@@ -232,11 +232,11 @@ RectTransform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchorMin: {x: 0.5, y: 1}
+  m_AnchorMax: {x: 0.5, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 340, y: 80}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_SizeDelta: {x: 335, y: 85}
+  m_Pivot: {x: 0.5, y: 0.44}
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1

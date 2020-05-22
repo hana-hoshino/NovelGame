@@ -42,9 +42,137 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u5F7C\u5973"
+      - "\u5F7C\u5973"
+      - "\u901A\u5E38"
+      - 
+      - -50
+      - 
+      - 
+      - .6
+      - 
+      - A3-1.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - 
+      - 
+      - "\u304A\u3069\u308D\u304D"
+      - 
+      - -50
+      - 
+      - 
+      - .6
+      - 
+      - A3-2.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - 
+      - 
+      - "\u3048\u304C\u304A"
+      - 
+      - -50
+      - 
+      - 
+      - .6
+      - 
+      - A3-3.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - 
+      - 
+      - "\u6C57"
+      - 
+      - -50
+      - 
+      - 
+      - .6
+      - 
+      - A3-4.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - 
+      - 
+      - "\u307E\u3058\u3081"
+      - 
+      - -50
+      - 
+      - 
+      - .6
+      - 
+      - A3-5.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - 
+      - 
+      - "\u6CE3\u304D"
+      - 
+      - -50
+      - 
+      - 
+      - .6
+      - 
+      - A3-6.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - 
+      - 
+      - "\u7167\u308C"
+      - 
+      - -50
+      - 
+      - 
+      - .6
+      - 
+      - A3-7.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - 
+      - 
+      - "\u7167\u308C\u3073\u3063\u304F\u308A"
+      - 
+      - -50
+      - 
+      - 
+      - .6
+      - 
+      - A3-8.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/YandereAtoZ/YandereAtoZ.xls:Character
     type: 1
-    textLength: 154
+    textLength: 285
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -70,9 +198,24 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u5F7C\u5973\u90E8\u5C4B"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - .4
+      - 
+      - room.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/YandereAtoZ/YandereAtoZ.xls:Texture
     type: 1
-    textLength: 112
+    textLength: 128
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:

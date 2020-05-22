@@ -125,6 +125,7 @@ namespace Utage
 			for (int i = 0; i < itemNum; ++i)
 			{
 				GameObject go = Content.AddChildPrefab(ItemPrefab.gameObject);
+				
 				items.Add(go);
 				if (null != callbackCreateItem) callbackCreateItem(go, i);
 			}
