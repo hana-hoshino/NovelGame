@@ -170,9 +170,57 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - 
+      - 
+      - "\u30DB\u30E9\u30FC"
+      - 
+      - -50
+      - 
+      - 
+      - .6
+      - 
+      - horror.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - 
+      - 
+      - "\u30DB\u30E9\u30FC\u5305\u4E01"
+      - 
+      - -50
+      - 
+      - 
+      - .6
+      - 
+      - horror_nife.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings:
+      - 
+      - 
+      - "\u30DB\u30E9\u30FC\u304A\u3053"
+      - 
+      - -50
+      - 
+      - 
+      - .6
+      - 
+      - horror_oko.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/YandereAtoZ/YandereAtoZ.xls:Character
     type: 1
-    textLength: 285
+    textLength: 352
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -213,9 +261,189 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u30EA\u30D3\u30F3\u30B0"
+      - Bg
+      - 250
+      - 
+      - 
+      - 
+      - .3
+      - 
+      - home.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u6CB3\u539F"
+      - Bg
+      - 250
+      - 
+      - 
+      - 
+      - .3
+      - 
+      - nc78902.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u516C\u5712"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - .65
+      - 
+      - JP_park_for_kids_Noon.jpg
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - "\u8840"
+      - Bg
+      - 
+      - 
+      - 
+      - 
+      - .6
+      - 
+      - blood.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - "\u30ED\u30FC\u30D7"
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .1
+      - 
+      - rope.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - "\u30C8\u30E9\u30D0\u30B5\u30DF"
+      - Sprite
+      - 
+      - 60
+      - 
+      - 
+      - .4
+      - 
+      - trap-33819_640.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
+      - "\u5305\u4E01"
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .1
+      - 
+      - nife-01.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 10
+      debugIndex: 10
+      strings:
+      - "\u30AB\u30C3\u30BF\u30FCmono"
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .05
+      - 
+      - cutter_mono.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings:
+      - "\u30AB\u30C3\u30BF\u30FC"
+      - Sprite
+      - 
+      - 
+      - 
+      - 
+      - .05
+      - 
+      - cutter.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 12
+      strings:
+      - "\u306F\u3055\u307Fmono"
+      - Sprite
+      - 
+      - 50
+      - 
+      - 
+      - .2
+      - 
+      - hasami_mono.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 13
+      strings:
+      - "\u306F\u3055\u307F"
+      - Sprite
+      - 
+      - 50
+      - 
+      - 
+      - .2
+      - 
+      - hasami.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/YandereAtoZ/YandereAtoZ.xls:Texture
     type: 1
-    textLength: 128
+    textLength: 396
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -448,6 +676,68 @@ MonoBehaviour:
     - rowIndex: 3
       debugIndex: 3
       strings:
+      - "\u4E0D\u7A4FBGM"
+      - 
+      - Bgm
+      - SBGMv2_04.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - "\u4E0D\u6C17\u5473BGM"
+      - 
+      - Bgm
+      - bgm_seishinsekai.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - "\u60B2\u3057\u307FBGM"
+      - 
+      - Bgm
+      - SBGMv2_06.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - "\u30AE\u30E3\u30B0BGM"
+      - 
+      - Bgm
+      - SBGMv2_03.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 7
+      debugIndex: 7
+      strings:
+      - "\u6226\u95D8BGM"
+      - 
+      - Bgm
+      - SBGMv2_07.wav
+      - 
+      - .8
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 8
+      debugIndex: 8
+      strings:
+      - 
+      - 
+      - 
+      - 
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 9
+      debugIndex: 9
+      strings:
       - "SE\u30C1\u30E3\u30A4\u30E0"
       - 
       - Se
@@ -455,8 +745,8 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
-    - rowIndex: 4
-      debugIndex: 4
+    - rowIndex: 10
+      debugIndex: 10
       strings:
       - "SE\u30C9\u30A2"
       - 
@@ -465,9 +755,117 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 11
+      debugIndex: 11
+      strings:
+      - "SE\u30C1\u30FC\u30F3"
+      - 
+      - Se
+      - mysterious.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 12
+      debugIndex: 12
+      strings:
+      - "SE\u30C6\u30ED\u30EA\u30FC\u30F3"
+      - 
+      - Se
+      - mysterious3.wav
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 13
+      debugIndex: 13
+      strings:
+      - "SE\u8DB3\u97F3"
+      - 
+      - Se
+      - run.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 14
+      debugIndex: 14
+      strings:
+      - "SE\u5305\u4E01"
+      - 
+      - Se
+      - se_zuburi.wav
+      - 
+      - .8
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 15
+      debugIndex: 15
+      strings:
+      - "SE\u3072\u3089\u3081\u304D"
+      - 
+      - Se
+      - Onmtp-Inspiration10-1.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 16
+      debugIndex: 16
+      strings:
+      - "SE\u306F\u3055\u307F"
+      - 
+      - Se
+      - scissors2.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 17
+      debugIndex: 17
+      strings:
+      - "SE\u30DC\u30AD"
+      - 
+      - Se
+      - Motion-Fracture03-1.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 18
+      debugIndex: 18
+      strings:
+      - "SE\u3057\u3083\u304D\u3093"
+      - 
+      - Se
+      - katana-gesture1.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 19
+      debugIndex: 19
+      strings:
+      - "SE\u304C\u3055\u3054\u305D"
+      - 
+      - Se
+      - tatami-sitdown1.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 20
+      debugIndex: 20
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 21
+      debugIndex: 21
+      strings:
+      - "\u74B0\u5883\u97F3_\u5DDD"
+      - 
+      - Ambience
+      - river.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/YandereAtoZ/YandereAtoZ.xls:Sound
     type: 1
-    textLength: 125
+    textLength: 479
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
@@ -481,9 +879,64 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - flag1
+      - Bool
+      - FALSE
+      - System
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - flag2
+      - Bool
+      - FALSE
+      - System
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - flag3
+      - Bool
+      - FALSE
+      - System
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings: []
+      isEmpty: 1
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 5
+      debugIndex: 5
+      strings:
+      - point
+      - Int
+      - 0
+      - System
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 6
+      debugIndex: 6
+      strings:
+      - asobo
+      - Int
+      - 0
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/YandereAtoZ/YandereAtoZ.xls:Param
     type: 1
-    textLength: 22
+    textLength: 106
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:

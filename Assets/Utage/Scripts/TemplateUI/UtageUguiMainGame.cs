@@ -47,6 +47,7 @@ public class UtageUguiMainGame : UguiView
 	/// <summary>自動で読み進むボタン</summary>
 	public Toggle checkAuto;
 
+
 	//起動タイプ
 	protected enum BootType
 	{
